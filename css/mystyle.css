@@ -2,7 +2,7 @@ h1 {
     margin-bottom: 15px;
 }
 
-div {
+div.col-lg-4 {
     background-color: blue;
 }
 
